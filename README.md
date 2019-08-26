@@ -74,3 +74,12 @@
     
     - **Response -** Gets all transactions corresponding to the applied filters for visualizing
     
+ 4. **Run migration to load sample data into DB for visualization**
+    - **URL -** 'http://localhost:'port-number'/runMigrationForDB'
+    - **Purpose -** Initially load data into the db for visualizing without adding new data.
+    - **Method -** 'POST'
+    - **URL params -** None
+    - **Response -** Success/Failure message
+    
+
+
