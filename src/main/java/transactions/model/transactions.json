@@ -1,0 +1,13 @@
+[{"userId" : "134256", "currencyFrom" : "EUR","currencyTo" : "GBP","amountSell" : 1000,"amountBuy" : 747.10,"rate" : 0.7471,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"},
+{"userId" : "123456", "currencyFrom" : "EUR","currencyTo" : "USD","amountSell" : 1000,"amountBuy" : 1120,"rate" : 1.12,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "US"},
+{"userId" : "312345", "currencyFrom" : "EUR","currencyTo" : "USD","amountSell" : 500,"amountBuy" : 560,"rate" : 1.12,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "US"},
+{"userId" : "123241", "currencyFrom" : "EUR","currencyTo" : "INR","amountSell" : 1000,"amountBuy" : 79820,"rate" : 79.82,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"},
+{"userId" : "134256", "currencyFrom" : "INR","currencyTo" : "GBP","amountSell" : 50000,"amountBuy" : 600,"rate" : 0.012,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"},
+{"userId" : "123456", "currencyFrom" : "USD","currencyTo" : "CAD","amountSell" : 5000,"amountBuy" : 6650,"rate" : 1.33,"timePlaced" : "10-DEC-17 19:34:54","originatingCountry" : "CA"},
+{"userId" : "123456", "currencyFrom" : "USD","currencyTo" : "CAD","amountSell" : 5000,"amountBuy" : 6700,"rate" : 1.34,"timePlaced" : "12-JAN-18 09:17:14","originatingCountry" : "CA"},
+{"userId" : "123456", "currencyFrom" : "USD","currencyTo" : "CAD","amountSell" : 5000,"amountBuy" : 6450,"rate" : 1.29,"timePlaced" : "12-JAN-18 11:45:42","originatingCountry" : "CA"},
+{"userId" : "134256", "currencyFrom" : "EUR","currencyTo" : "GBP","amountSell" : 3500,"amountBuy" : 2614.85,"rate" : 0.7471,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"},
+{"userId" : "134256", "currencyFrom" : "INR","currencyTo" : "GBP","amountSell" : 100000,"amountBuy" : 1200,"rate" : 0.012,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"},
+{"userId" : "134256", "currencyFrom" : "INR","currencyTo" : "GBP","amountSell" : 100000,"amountBuy" : 900,"rate" : 0.009,"timePlaced" : "30-JAN-18 18:32:44","originatingCountry" : "FR"},
+{"userId" : "134256", "currencyFrom" : "INR","currencyTo" : "GBP","amountSell" : 100000,"amountBuy" : 1500,"rate" : 0.015,"timePlaced" : "12-FEB-18 12:45:44","originatingCountry" : "FR"},
+{"userId" : "134256", "currencyFrom" : "USD","currencyTo" : "GBP","amountSell" : 1000,"amountBuy" : 747.10,"rate" : 0.7471,"timePlaced" : "24-JAN-18 10:27:44","originatingCountry" : "FR"}]
